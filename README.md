@@ -1,4 +1,4 @@
-**# Superstore Sales Dashboard (Power BI)
+ Superstore Sales Dashboard (Power BI)
 
 ## 📊 Overview
 This project presents an interactive sales dashboard built using Microsoft Power BI to analyze Superstore data across the United States for the years 2019 and 2020.
